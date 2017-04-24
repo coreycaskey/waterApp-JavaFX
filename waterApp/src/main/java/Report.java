@@ -1,3 +1,7 @@
+/*
+ Created by Corey Caskey on 4/24/2017
+ */
+
 public class Report {
 	private String address;
 	private int reportNumber;

@@ -1,5 +1,9 @@
-public class User {
+/*
+ Created by Corey Caskey on 4/24/2017
+ */
 
+public class User {
+    
 	private String password;
     private AccountType accountType;
     private String email;

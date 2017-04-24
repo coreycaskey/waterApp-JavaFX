@@ -1,3 +1,7 @@
+/*
+ Created by Corey Caskey on 4/24/2017
+ */
+
 import javafx.scene.Scene;
 import javafx.scene.chart.LineChart;
 import javafx.scene.chart.NumberAxis;

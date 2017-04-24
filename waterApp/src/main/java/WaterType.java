@@ -1,3 +1,7 @@
+/*
+ Created by Corey Caskey on 4/24/2017
+ */
+
 public enum WaterType {
 	BOTTLED("Bottled"),
 	WELL("Well"),

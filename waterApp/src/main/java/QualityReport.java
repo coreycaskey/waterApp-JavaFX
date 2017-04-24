@@ -1,3 +1,7 @@
+/*
+ Created by Corey Caskey on 4/24/2017
+ */
+
 public class QualityReport {
 
 	private int reportNumber = ReportList.getReportList().size();

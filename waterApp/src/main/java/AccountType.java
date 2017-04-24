@@ -1,3 +1,7 @@
+/* 
+ Created by Corey Caskey on 4/24/2017
+ */
+
 public enum AccountType {
 	USER("User"),
 	WORKER("Worker"),
