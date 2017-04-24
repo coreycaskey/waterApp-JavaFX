@@ -1,0 +1,40 @@
+1
+North Ave
+North Ave
+2017/01/23
+Treatable
+10.2
+3.4
+-----------------------
+2
+Atlanta
+Ga
+2017/04/23
+Unsafe
+10.3
+2.5
+-----------------------
+3
+North Ave
+nsdjbvjksd
+2017/12/23
+Treatable
+3.2
+15.4
+-----------------------
+4
+North Ave
+North Ave
+2017/04/23
+Unsafe
+23.54
+3.5
+-----------------------
+5
+North Ave
+North Ave
+2017/04/23
+Treatable
+11.2
+4.5
+-----------------------
